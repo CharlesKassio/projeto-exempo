@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+.cabecalho {
+    background: linear-gradient( 45deg, #fff, #1d51d1 );
+    padding: 15px;
+
+}
+
+.img {
+    width: 250px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.menu a {
+    text-decoration: nome;
+    font-weight: bold;
+    color: rgb(12, 12, 211);
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(12, 12, 211);
+    padding: 5px;
+}
